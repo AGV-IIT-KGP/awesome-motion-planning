@@ -27,3 +27,8 @@ Books
 ------
 
 * [Planning Algorithms](http://msl.cs.uiuc.edu/planning/index.html) By Steven M. LaValle
+
+Papers
+------
+
+* [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
