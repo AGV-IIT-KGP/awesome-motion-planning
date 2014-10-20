@@ -22,3 +22,8 @@ Blogs and Tutorials
 * [Introduction to A-star](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 * [Toward More Realistic Pathfinding](http://www.gamasutra.com/view/feature/131505/toward_more_realistic_pathfinding.php)
 * [Overview of Motion Planning](http://www.gamasutra.com/blogs/MattKlingensmith/20130907/199787/Overview_of_Motion_Planning.php)
+
+Books
+------
+
+* [Planning Algorithms](http://msl.cs.uiuc.edu/planning/index.html) By Steven M. LaValle
