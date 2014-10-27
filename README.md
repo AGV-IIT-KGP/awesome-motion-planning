@@ -28,6 +28,7 @@ Books
 
 * [Planning Algorithms](http://msl.cs.uiuc.edu/planning/index.html) By Steven M. LaValle
 * [Robot Motion Planning](http://books.google.com.au/books?id=Mbo_p4-46-cC) By Jean-Claude Latombe
+* [Autonomus Robots: Modeling, Path Planning, and Control](http://books.google.co.in/books?id=s7-4g1wcp8MC&lpg=PA13&dq=robot%20%2B%20planning%20%2B%20feedback%20control&pg=PR4#v=onepage&q&f=false) by Farbod Fahimi
 
 Papers
 ------
