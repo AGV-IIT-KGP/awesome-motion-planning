@@ -27,6 +27,7 @@ Books
 ------
 
 * [Planning Algorithms](http://msl.cs.uiuc.edu/planning/index.html) By Steven M. LaValle
+* [Robot Motion Planning](http://books.google.com.au/books?id=Mbo_p4-46-cC) By Jean-Claude Latombe
 
 Papers
 ------
