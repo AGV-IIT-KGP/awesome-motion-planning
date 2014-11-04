@@ -22,7 +22,7 @@ Blogs and Tutorials
 * [Introduction to A-star](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 * [Toward More Realistic Pathfinding](http://www.gamasutra.com/view/feature/131505/toward_more_realistic_pathfinding.php)
 * [Overview of Motion Planning](http://www.gamasutra.com/blogs/MattKlingensmith/20130907/199787/Overview_of_Motion_Planning.php)
-* [Principles of Robot Motion](http://mitpress.mit.edu/books/principles-robot-motion)
+
 
 Books
 ------
@@ -30,6 +30,7 @@ Books
 * [Planning Algorithms](http://msl.cs.uiuc.edu/planning/index.html) By Steven M. LaValle
 * [Robot Motion Planning](http://www.springer.com/engineering/robotics/book/978-0-7923-9129-6) By Jean-Claude Latombe
 * [Autonomus Robots: Modeling, Path Planning, and Control](http://books.google.co.in/books?id=s7-4g1wcp8MC&lpg=PA13&dq=robot%20%2B%20planning%20%2B%20feedback%20control&pg=PR4#v=onepage&q&f=false) by Farbod Fahimi
+* [Principles of Robot Motion](http://mitpress.mit.edu/books/principles-robot-motion)
 
 Papers
 ------
