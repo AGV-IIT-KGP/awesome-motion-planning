@@ -38,4 +38,5 @@ Papers
 * [Limited-Damage A*: A path search algorithm that considers damage as a feasibility criterion](http://www.sciencedirect.com/science/article/pii/S0950705110001905) by Serhat Bayili, Faruk Polat
 * [Real Time Continuous Curvature Path Planner for an Autonomous Vehicle in an Urban Environment](http://cs.stanford.edu/people/davidknowles/knowles-surf06.pdf) by David Knowles
 * [An Evolutionary Artificial Potential Field Algorithm for Dynamic Path Planning of Mobile Robot](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4058914&tag=1) by Cao Qixin, Huang Yanwen, Zhou Jingliang
+* [Planning continuous-curvature paths for car-like robots](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=568985) by Scheuer A, Fraichard T
 * [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) by Jonathan Richard Shewchuk
