@@ -34,5 +34,5 @@ Books
 
 Papers
 ------
-
+*[Randomized Kinodynamic Planning](http://ijr.sagepub.com/content/20/5/378.full.pdf+html) by Steven M. LaValle and James J. Kuffner, Jr
 * [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) by Jonathan Richard Shewchuk
