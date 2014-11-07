@@ -2,7 +2,7 @@ Awesome Motion Planning
 =======================
 
 An attempt to collect a curated list of awesome learning resources, research
-papers, tools and other resources related to Biology. This is inpired from
+papers, tools and other resources related to Motion Planning. This is inpired from
 several such lists in programming community.
 
 If you want to contribute to this list (please do), [send a pull
