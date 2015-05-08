@@ -1,6 +1,8 @@
 Awesome Motion Planning
 =======================
 
+[![Join the chat at https://gitter.im/AGV-IIT-KGP/awesome-motion-planning](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AGV-IIT-KGP/awesome-motion-planning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An attempt to collect a curated list of awesome learning resources, research
 papers, tools and other resources related to Motion Planning. This is inpired from
 several such lists in programming community.
