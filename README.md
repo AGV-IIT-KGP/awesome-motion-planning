@@ -34,6 +34,11 @@ Books
 * [Autonomus Robots: Modeling, Path Planning, and Control](http://books.google.co.in/books?id=s7-4g1wcp8MC&lpg=PA13&dq=robot%20%2B%20planning%20%2B%20feedback%20control&pg=PR4#v=onepage&q&f=false) by Farbod Fahimi
 * [Principles of Robot Motion](http://mitpress.mit.edu/books/principles-robot-motion) By Howie Choset, Kevin M. Lynch, Seth Hutchinson, George A. Kantor, Wolfram Burgard, Lydia E. Kavraki and Sebastian Thrun
 
+Lecture Notes
+------------
+
+* [Robot Motion Planning Lectures](http://www.cs.cmu.edu/~motionplanning/lecture/lecture.html) By Howie Choset.
+
 Papers
 ------
 * [Randomized Kinodynamic Planning](http://ijr.sagepub.com/content/20/5/378.full.pdf+html) by Steven M. LaValle and James J. Kuffner, 
