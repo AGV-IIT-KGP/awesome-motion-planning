@@ -39,6 +39,11 @@ Lecture Notes
 
 * [Robot Motion Planning Lectures](http://www.cs.cmu.edu/~motionplanning/lecture/lecture.html) By Howie Choset.
 
+Software Packages and Libraries
+-------------------------------
+
+* [OMPL](http://ompl.kavrakilab.org/): Open Motion Planning Library
+
 Papers
 ------
 * [Randomized Kinodynamic Planning](http://ijr.sagepub.com/content/20/5/378.full.pdf+html) by Steven M. LaValle and James J. Kuffner, 
