@@ -56,4 +56,4 @@ Papers
 * [Optimal and Efficient Path Planning for Partially-Known Environments](http://link.springer.com/chapter/10.1007%2F978-1-4615-6325-9_11) by Anthony Stentz
 * [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) by Jonathan Richard Shewchuk
 * [Practical search techniques in path planning for autonomous driving](http://ai.stanford.edu/~ddolgov/papers/dolgov_gpp_stair08.pdf)
-* [Junior The Stanford entry in the urban challenge] (http://robots.stanford.edu/papers/junior08.pdf)
+* [Junior The Stanford entry in the urban challenge](http://robots.stanford.edu/papers/junior08.pdf)
