@@ -45,6 +45,12 @@ Papers
 * [Optimal and Efficient Path Planning for Partially-Known Environments](http://link.springer.com/chapter/10.1007%2F978-1-4615-6325-9_11) by Anthony Stentz
 * [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) by Jonathan Richard Shewchuk
 
+### Heuristic Search
+
+* [A Formal Basis for the Heuristic Determination of Minimum Cost Paths](http://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf) - The original A* paper. Introduces the ideas of consistency and admissibility. Also has proofs for the optimality of A*.
+* [On the complexity of Admissible Search Algorithms](http://www.sciencedirect.com/science/article/pii/0004370277900029) - A* has worst-case performance with an admisible by inconsistent heuristic. This algorithm deals with such heuristics and improves the worst-case performance.
+* [A Heuristic Search Algorithm with Modifiable Estimate](http://www.sciencedirect.com/science/article/pii/0004370284900031) - Most algorithms derived from A* consider the heuristic cost h(s) to be a constant. This is the first algorithm that treats the heuristic cost as a variable and improves it during search whenever possible. The paper also has an influential proof of a result that says that no overall optimal algorithm exits if the cost of an algorithm is measured by the total number of node expansions.
+
 Lecture Notes
 ------------
 
