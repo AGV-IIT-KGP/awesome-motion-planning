@@ -55,8 +55,11 @@ Lecture Notes
 ------------
 
 * [Robot Motion Planning Lectures](http://www.cs.cmu.edu/~motionplanning/lecture/lecture.html) By Howie Choset.
+* [Planning and Decision Making in Robotics](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/) By Maxim Likhachev.
 
 Software Packages and Libraries
 -------------------------------
 
-* [OMPL](http://ompl.kavrakilab.org/): Open Motion Planning Library
+* [OMPL](http://ompl.kavrakilab.org/): Sampling based planning
+* [SBPL](https://github.com/sbpl/sbpl): Heuristic search based planning
+* [SMPL](https://github.com/aurone/smpl): Heuristic search based planning for manipulators
