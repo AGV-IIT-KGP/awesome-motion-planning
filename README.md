@@ -25,6 +25,8 @@ Blogs and Tutorials
 * [Toward More Realistic Pathfinding](http://www.gamasutra.com/view/feature/131505/toward_more_realistic_pathfinding.php)
 * [Overview of Motion Planning](http://www.gamasutra.com/blogs/MattKlingensmith/20130907/199787/Overview_of_Motion_Planning.php)
 * [A* Path Finding for Beginners](http://www.policyalmanac.org/games/aStarTutorial.htm) By Patrick Lester
+* [Hybrid A* Implementation](http://blog.habrador.com/2015/11/explaining-hybrid-star-pathfinding.html)
+* [Dubins Path](https://gieseanw.wordpress.com/2012/10/21/a-comprehensive-step-by-step-tutorial-to-computing-dubins-paths/)
 
 Books
 ------
@@ -44,6 +46,9 @@ Papers
 * [Planning continuous-curvature paths for car-like robots](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=568985) by Scheuer A, Fraichard T
 * [Optimal and Efficient Path Planning for Partially-Known Environments](http://link.springer.com/chapter/10.1007%2F978-1-4615-6325-9_11) by Anthony Stentz
 * [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) by Jonathan Richard Shewchuk
+* [Practical search techniques in path planning for autonomous driving](http://ai.stanford.edu/~ddolgov/papers/dolgov_gpp_stair08.pdf)
+* [Junior The Stanford entry in the urban challenge](http://robots.stanford.edu/papers/junior08.pdf)
+
 
 ### Heuristic Search
 
